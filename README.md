@@ -1,0 +1,1 @@
+# SGTM-Variable_Firestore-Get-Full-Document
